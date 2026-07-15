@@ -69,3 +69,5 @@ This PR adds a feature to migrate users from the existing H2 database to MySQL. 
   * Sink: `ca.odell.glazedlists.impl.io.BeanXMLByteCoder.decode`
 
 This PR adds a new feature to import users from an XML file. Although the code itself does not seem to contain any vulnerabilities, the `decode` library function is vulnerable to deserialization if the passed argument is user-controllable. Thus this PR introduces a critical vulnerability due to the usage of the unsafe library function.
+
+Testing with new brnach
