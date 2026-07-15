@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "enreap-sandbox",
+        "projectKey": "Sonar_deeper-sast-demo"
+    }
+}
