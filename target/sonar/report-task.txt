@@ -1,8 +1,7 @@
 organization=enreap-sandbox
-projectKey=Sonar_deeper-sast-demo
+projectKey=MC-AI-AGENT
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.95642
-branch=scanwithmcp
-dashboardUrl=https://sonarcloud.io/dashboard?id=Sonar_deeper-sast-demo&branch=scanwithmcp&resolved=false
-ceTaskId=AZ9CSqudP5GqxKJ7apVc
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ9CSqudP5GqxKJ7apVc
+serverVersion=8.0.0.96604
+dashboardUrl=https://sonarcloud.io/dashboard?id=MC-AI-AGENT
+ceTaskId=AZ9kmgujJla9oZ11iMuf
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ9kmgujJla9oZ11iMuf
